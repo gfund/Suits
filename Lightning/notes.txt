@@ -1,0 +1,5 @@
+dump who is in the bot
+arithmetic 
+maybe spam mode
+sentry mode 
+fix calling
